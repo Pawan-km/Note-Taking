@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react'
 import { Link, useHistory, useLocation } from 'react-router-dom'
-
+// Navbar
 function Navbar() {
   let history = useHistory()
   const handleLogout = () => {
