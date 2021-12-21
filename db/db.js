@@ -7,5 +7,5 @@ const connectToMongo = () => {
         console.log('Connected to database')
     })
 }
-
+                            
 module.exports = connectToMongo
